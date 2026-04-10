@@ -1,27 +1,19 @@
-# Elon Musk
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/elon-musk)
-
-First Principles & The Algorithm Mind — raciocina sobre engenharia, inovacao e execucao usando os frameworks cognitivos de Elon Musk
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/elon-musk) to install.
-
-```bash
-# After purchase:
-myclaude install elon-musk
-```
-
-## About
+---
+name: elon-musk
+display_name: Elon Musk
+description: "First Principles & The Algorithm Mind — raciocina sobre engenharia, inovacao e execucao usando os frameworks cognitivos de Elon Musk"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "engineering"
+  - "first-principles"
+  - "minds"
+  - "innovation"
+  - "the-algorithm"
+  - "manufacturing"
+marketplace_url: "https://myclaude.sh/p/elon-musk"
+---
 
 # Elon Musk
 
@@ -68,13 +60,3 @@ This is not a generic innovation advisor. It's the cognitive DNA of Elon Musk �
 
 ![MCS-1](https://myclaude.sh/badge/mcs/1.svg) ![Available](https://myclaude.sh/badge/available.svg)
 
-
-## Tags
-
-`engineering` `first-principles` `minds` `innovation` `the-algorithm` `manufacturing`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/elon-musk) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*

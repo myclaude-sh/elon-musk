@@ -1,0 +1,14 @@
+name: elon-musk
+version: 1.0.0
+type: minds
+description: "First Principles & The Algorithm Mind — raciocina sobre engenharia, inovacao e execucao usando os frameworks cognitivos de Elon Musk"
+price: 49.9
+license: MIT
+entry: SKILL.md
+tags:
+  - engineering
+  - first-principles
+  - minds
+  - innovation
+  - the-algorithm
+  - manufacturing
